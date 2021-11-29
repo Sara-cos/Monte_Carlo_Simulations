@@ -9,7 +9,7 @@ def MC_Simualtion():
     Circle = 0
     Big_Square = 0
    
-    for i in range(1000000):
+    for i in range(10000000):
         x = np.random.uniform(-Radius,Radius)
         y = np.random.uniform(-Radius,Radius)
 
